@@ -1,0 +1,50 @@
+h1{
+	display: block;
+	width: 80%;
+	text-align: center;
+	color: #ffffff;
+	background-color: #000088;
+	border-radius: 25px;
+}
+
+.flipper{
+	display:block;
+	float: left;
+	width: 300px;
+	height: 300px;
+	margin: 20px;
+	padding: 0;
+	position: relative;
+}
+
+.flipimg {
+	display: block;
+	margin: 0;
+	padding: 0;
+	width: 300px;
+	height: 300px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 90;
+}
+
+.flipmsg {
+	display:block;
+	width: 300px;
+	height: 100px;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	top: 200px;
+	left: 0px;
+	text-align: center;
+	vertical-align: middle;
+	text-decoration: bold;
+	background-color: #000088;
+	color: #ffffff;
+	font-family: Calibri, Serif;
+	font-size: 20px;
+	z-index: 2;
+}
+
