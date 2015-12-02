@@ -1,17 +1,8 @@
-h1{
-	display: block;
-	width: 80%;
-	text-align: center;
-	color: #ffffff;
-	background-color: #000088;
-	border-radius: 25px;
-}
-
 .flipper{
 	display:block;
 	float: left;
-	width: 300px;
-	height: 300px;
+	width: 200px;
+	height: 200px;
 	margin: 20px;
 	padding: 0;
 	position: relative;
@@ -21,8 +12,8 @@ h1{
 	display: block;
 	margin: 0;
 	padding: 0;
-	width: 300px;
-	height: 300px;
+	width: 200px;
+	height: 200px;
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -31,12 +22,12 @@ h1{
 
 .flipmsg {
 	display:block;
-	width: 300px;
-	height: 100px;
+	width: 200px;
+	height: 50px;
 	margin: 0px;
 	padding: 0px;
 	position: absolute;
-	top: 200px;
+	top: 150px;
 	left: 0px;
 	text-align: center;
 	vertical-align: middle;
@@ -44,7 +35,7 @@ h1{
 	background-color: #000088;
 	color: #ffffff;
 	font-family: Calibri, Serif;
-	font-size: 20px;
+	font-size: 14px;
 	z-index: 2;
 }
 
