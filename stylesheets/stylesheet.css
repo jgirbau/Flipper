@@ -61,7 +61,7 @@ a {
 
 @media screen and (min-width: 64em) {
   .page-header {
-    padding: 2rem 2rem; } }
+    padding: 1rem 1rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
@@ -77,11 +77,11 @@ a {
 
 @media screen and (min-width: 64em) {
   .project-name {
-    font-size: 2rem; } }
+    font-size: 1.5rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .project-name {
-    font-size: 2rem; } }
+    font-size: 1.5rem; } }
 
 @media screen and (max-width: 42em) {
   .project-name {
