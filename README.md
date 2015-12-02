@@ -8,4 +8,4 @@ The image will jump when mouseover to discuver the caption text.
 You can addapt the images size and color, changing the css file.
 
 For more details, please contact:
-[[mailto:jorge.girbau@gmail.com]](jorge.girbau@gmail.com)
+[[jorge.girbau@gmail.com]](mailto:jorge.girbau@gmail.com)
